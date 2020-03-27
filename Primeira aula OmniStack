@@ -1,0 +1,20 @@
+Primeira aula OmniStack
+	Nodejs = é o que interpreta o java script no chrome
+
+	json = é uma estrutura de dados que faz a ligação entre o back-end até o front-end
+
+	frameword = é uma "extensão" que auxilia nas conexões
+
+	npm = instala um pacote
+	npx = executa um pacote
+
+	react(abordagem SPA) = 	o usuário faz uma requisição em uma página web, e o back-end manda uma resposta JSON
+	que conecta até o front-end onde havará o JavaScrip, html e css, diferente da Abordagem Tradicional, em que o usuário
+	faz uma requisição e dá um resposta somente em HTML(resposta pronta), sendo o back-end responsável por todas as aplicações.
+
+	react native = Todo código é feito em JavaScript das aplicações ios e android, dentro dele existe a aplicação Java Scrip Core
+	onde é ela que vai "ajustar" o java script para construir a interface no android e ios, diferente de tradicionalmente, onde era
+	necessário fazer dois códigos diferentes, um para android e outro para ios.
+
+	expo = aplicativo que consegue gerar as API de mapas, câmera, geolocalização prontas para utilizar no app, por que sem o Expo
+	teriamos que baixar o Android Studio para construir essas API, porém o Expo já tem tudo pronto
